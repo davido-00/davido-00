@@ -3,7 +3,7 @@
 Full-stack developer specializing in custom ERP solutions, web dashboards, and mobile apps for business automation.
 
 ## 🔧 What I Do
-- Custom `Odoo (v12–18)` modules and ERP integrations for inventory, healthcare, and maritime logistics  
+- Custom `Odoo (v12–19)` modules and ERP integrations for inventory, healthcare, and maritime logistics  
 - Interactive web dashboards with `React.js` and `TailwindCSS`  
 - Cross-platform mobile and web apps using `Flutter` and `React Native`  
 - Scalable business systems for trading, POS, and terminal operations
