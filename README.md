@@ -11,7 +11,7 @@ Full-stack developer specializing in custom ERP solutions, web dashboards, and m
 
 ## 💼 Current Roles
 - **Full-Stack Developer** at iSERD Ltd.  
-- **IT Clerk (Technical Lead for System Integrations)** at Ghana Ports & Harbours Authority (GPHA)
+- **IT Personnel (System Integrations)** at Ghana Ports & Harbours Authority (GPHA)
 
 ## 🚀 Featured Projects
 ### PolicyCon — Policy Analysis Platform *(iSERD Ltd.)*
